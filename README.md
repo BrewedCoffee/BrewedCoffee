@@ -2,7 +2,8 @@
 🏫 I’m currently learning Python, C++, and Javascript.  
 👯 My strongest skills are communication and teamwork.  
 ⚡ ~~If you ever need a voice actor, I'm your guy!~~  
-🏦 Currently looking for internship and co-op opportunities.  
+
+🏦 Looking for internship/co-op opportunities for Fall 2021.  
 
 
 <!--
